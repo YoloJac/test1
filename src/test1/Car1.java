@@ -4,7 +4,7 @@ public class Car1 {
 
 	public static void main(String[] args) {
 		System.out.println("누ㅐ낸누ㅐㄴ낸ㄴ내내내낸내누ㅐ");
-		System.out.println("하하하아ㅏㅇ아하ㅏ하");
+		System.out.println("하하하아아하하");
 	}
 
 }
